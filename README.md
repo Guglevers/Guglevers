@@ -43,8 +43,10 @@ Feel free to reach out or collaborate on projects. I’m always open to new idea
 - Email: gustavo.pr2005@aluno.ifsc.edu.br
 
 ## 📊 GitHub Statistics
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guglevers&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guglevers)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=your_username.Guglevers)
+
 
 
 
