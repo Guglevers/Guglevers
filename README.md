@@ -15,6 +15,11 @@ I am a Telecommunications Technician graduated from IFSC, currently working at I
 - **JavaScript**, **HTML**, and **CSS** (front-end development)
 
 ### 🔧 Tools and Frameworks
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-blue?style=for-the-badge&logo=salesforce&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-FF6F00?style=for-the-badge)
 - **VS Code** (IDEs)
 - **Git** and **GitHub** (Version Control)
 - **CRM/ERP** (familiar with CRM and ERP, conducting processes and analyses within the company, Ploomes, SalesForce, TOTVS, SAP...)
