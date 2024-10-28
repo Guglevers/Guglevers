@@ -33,7 +33,7 @@ I am currently enhancing my skills through a [Python](https://www.udemy.com/cour
 - [Gatasma](https://github.com/ARMBREAKERS-GAMES/Gatasma): 
 gatasma was my first development project, I created it in pairs with a friend and with the help of one of my teachers, the game is entirely developed in JS using the Phaser library, the entire game was made by me and my colleague, since art to music and most importantly, the code!!!
 
-- [MOHG](https://github.com/MOHG-Enterprises/MOHG): MOHG foi meu primeiro contato com JAVA, ele foi um projeto meu e de outros dois colegas, nós utilizamos o ROBOT framework e o intuito era começar a tarabalhar com programação em JAVA e ter um primeiro contato com a tecnologia, MOHG participou de um campeano do instituto (IFSC) e saiu como o grande vitorioso, foi bem divertido.
+- [MOHG](https://github.com/MOHG-Enterprises/MOHG): MOHG was my first contact with JAVA, it was a project of mine and two other colleagues, we used the ROBOT framework and the intention was to start working with programming in JAVA and have a first contact with the technology, MOHG participated in a championship of the institute (IFSC) and came out as the big winner, it was a lot of fun.
 
 ## 💬 Let’s Connect!
 
