@@ -44,7 +44,7 @@ Feel free to reach out or collaborate on projects. I’m always open to new idea
 
 ## 📊 GitHub Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guglevers&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Guglevers.Guglevers)
+![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Guglevers)
 
 
 
