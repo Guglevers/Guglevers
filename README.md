@@ -44,8 +44,8 @@ Feel free to reach out or collaborate on projects. I’m always open to new idea
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guglevers_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guglevers_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guglevers&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guglevers&layout=compact&theme=radical)
 
 
