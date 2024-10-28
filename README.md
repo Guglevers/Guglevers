@@ -27,7 +27,6 @@ I am a Telecommunications Technician graduated from IFSC, currently working at I
 ### 🛠 Currently Learning
 - Front-end programming with **JavaScript**, **HTML**, **CSS**
 - Back-end development with **Java** and Python
-- Data analysis and automation with Python.
 
 ## 🎓 Education
 
