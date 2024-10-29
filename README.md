@@ -13,6 +13,7 @@ I am a Telecommunications Technician graduated from IFSC, currently working at I
 - **Python** (in progress)
 - **Java** (Object-Oriented Programming)
 - **JavaScript**, **HTML**, and **CSS** (front-end development)
+- Just a heads-up, I’m still a beginner and not good at these languages yet—I’m only just starting to learn!
 
 ### 🔧 Tools and Frameworks
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
