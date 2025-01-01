@@ -23,7 +23,6 @@ I am a Telecommunications Technician graduated from IFSC, currently working at I
 ![ERP](https://img.shields.io/badge/ERP-FF6F00?style=for-the-badge)
 - **VS Code** (IDEs)
 - **Git** and **GitHub** (Version Control)
-- **CRM/ERP** (familiar with CRM and ERP, conducting processes and analyses within the company, Ploomes, SalesForce, TOTVS, SAP...)
 
 ### 🛠 Currently Learning
 - Front-end programming with **JavaScript**, **HTML**, **CSS**
